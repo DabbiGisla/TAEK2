@@ -21,4 +21,10 @@
 ##### Úttakstæki: t.d. skjár og prentari.
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 #### Lyklaborð, mús, Flakkari.
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+|        Íhlutur               | Verslun | Kostnaður  |
+|------------------------------|:-------:|-----------:|
+|Gigabyte Gaming Tölvutilboð 3 | Tölvutek| 229.990kr  |
+|DDR4 8GB Ram	               | Tölvutek| 12.990kr   |
+
 
