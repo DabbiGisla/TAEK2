@@ -19,3 +19,6 @@
 #### Þau tæki sem eru ekki inní tölvunni sjálfri heldur fyrir utan vélina. Flokkast í tvennt: 
 ##### Inntakstæki: t.d. Lyklaborð og mús
 ##### Úttakstæki: t.d. skjár og prentari.
+### 9. Nefndu þrjú dæmi um inntakstæki.
+#### Lyklaborð, mús, Flakkari.
+
