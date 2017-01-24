@@ -13,3 +13,5 @@
 #### Það veit ég nú ekki alveg
 ### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 #### Svara þessu seinna.
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+#### Opin spurning þarfnast fleiri orð heldur en eitt, svöring gætu jafnvel komið í lista, nokkrum setningum eða mögulega ritgerð. Lokuð spurning er svona spurning sem þú getur svarað játandi eða neitandi. Dæmi um lokaða: Líður þér betur í dag? Dæmi um opna: Hvernig kynntist þú besta vini þínum.
