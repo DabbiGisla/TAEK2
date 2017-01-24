@@ -11,3 +11,5 @@
 #### Electrostatic Discharge. Snerta eitthvern málm áður en þú ferð að vinna og afhleður þig þannig.
 ### 5. Hvað þarf að hafa í huga við var á spennugjöfum?
 #### Það veit ég nú ekki alveg
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+#### Svara þessu seinna.
